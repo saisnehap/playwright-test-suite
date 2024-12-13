@@ -24,7 +24,7 @@ playwright-task/ ├── data/ │ └── testData.json ├── tests/ �
 
 ## Running Tests
 - **Run all tests**:
-  npx playwright 
+  npx playwright test
 - **Run specific tests**:
   npx playwright test --grep "Test Case 1"
 - **Debug tests**:

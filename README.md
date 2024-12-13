@@ -14,7 +14,7 @@ playwright-task/ ├── data/ │ └── testData.json ├── tests/ �
 
 ## Setup
 1. Clone the repository:
-   git clone <repository-url>
+   git clone <https://github.com/saisnehap/playwright-test-suite.git>
 
 2. Navigate to the project directory:
    cd playwright-task
